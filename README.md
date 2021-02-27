@@ -1,3 +1,46 @@
-# NLW-04
+<div align="center">
+    <img src="imgs/nlw4.jpg" alt="Next Level Week #4 - Trilha de NodeJS">
+</div>
 
-Evento NLW 04 - Trilha de NodeJS
+<div align="center">
+    <img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge" alt="Typescript">
+    <img src="https://img.shields.io/badge/-Node.js-orange?style=for-the-badge" alt="Node.js">
+    <img src="https://img.shields.io/badge/-Express-white?style=for-the-badge" alt="Express">
+    <p>
+        by <a href="https://www.linkedin.com/in/plovinicius/" target="_blank">Paulo Vinicius</a>
+    </p>
+</div>
+
+<h4 align="center">
+</h4>
+
+<div align="center">
+    <h2>
+    [O Projeto](#o-projeto)
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    [Iniciando a jornada](#iniciando-a-jornada)
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    [Sobre](#sobre)
+    </h2>
+</div>
+
+<br/>
+
+# O projeto
+
+Durante esta **Next Level Week** foi desenvolvida uma API Rest para Net Promoter Score.
+
+> O **Net Promoter Score** é uma metodologia de satisfação de clientes desenvolvida para avaliar o grau de **fidelidade dos clientes** de qualquer perfil de empresa.
+
+<br/>
+
+# Iniciando a jornada
+
+Todas informações sobre a jornada se encontra em: [Guia Next Level Week #4](https://www.notion.so/Next-Level-Week-4-Node-js-67981103adbb4f229187c802bcd0d787)
+</div>
+
+</br>
+
+# Sobre
+
+As aulas foram ministradas pela **[Daniele Leão](https://github.com/danileao)** instrutora da [Rocketseat](https://rocketseat.com.br/)
