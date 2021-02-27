@@ -16,11 +16,11 @@
 
 <div align="center">
     <h2>
-    [O Projeto](#o-projeto)
+    <a href="#o-projeto">O projeto</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    [Iniciando a jornada](#iniciando-a-jornada)
+    <a href="#iniciando-a-jornada">Iniciando a jornada</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    [Sobre](#sobre)
+    <a href="#sobre">Sobre</a>
     </h2>
 </div>
 
