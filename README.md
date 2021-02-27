@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="imgs/nlw4.jpg" alt="Next Level Week #4 - Trilha de NodeJS">
+    <img src="imgs/nlw-4.jpg" alt="Next Level Week #4 - Trilha de NodeJS">
 </div>
 
 <div align="center">
